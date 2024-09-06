@@ -1,0 +1,23 @@
+.info{
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+.infoText{
+    width: 50%;
+    padding: 12px;
+    margin-left: 16px;
+}
+
+table, th, td {
+    border:1px solid black;
+    background-color: rgb(68, 68, 188);
+    color: #fff;
+    margin-left: 56px;
+}
+
+table td{
+    padding: 3px;
+}
